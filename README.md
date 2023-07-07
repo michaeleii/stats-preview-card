@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-with-react-tailwindcss-HH8c7KOACa](https://www.frontendmentor.io/solutions/stats-preview-card-component-with-react-tailwindcss-HH8c7KOACa)
 - Live Site URL: [https://michaellei-stats-card.netlify.app/](https://michaellei-stats-card.netlify.app/)
 
 ## Tech Stack
